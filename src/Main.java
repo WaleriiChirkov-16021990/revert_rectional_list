@@ -5,16 +5,4 @@ public class Main {
 		System.out.println("Hello world!");
 	}
 	
-	public void revert(){
-		Node node = new Node();
-		
-	
-	}
-	
-	private class Node {
-		private int value;
-		private Node head;
-//		private Node tail;
-	}
-	
 }
